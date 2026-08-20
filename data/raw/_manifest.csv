@@ -1,0 +1,11 @@
+indicator_code,column_name,records_returned,non_null_values,first_year,last_year,pulled_on
+NY.GDP.MKTP.KD.ZG,gdp_growth_pct,66,65,1961,2025,2026-08-20
+NY.GDP.PCAP.KD.ZG,gdp_per_capita_growth_pct,66,65,1961,2025,2026-08-20
+FP.CPI.TOTL.ZG,inflation_cpi_pct,66,66,1960,2025,2026-08-20
+SL.UEM.TOTL.ZS,unemployment_pct,66,35,1991,2025,2026-08-20
+NE.EXP.GNFS.ZS,exports_pct_gdp,66,66,1960,2025,2026-08-20
+NE.IMP.GNFS.ZS,imports_pct_gdp,66,66,1960,2025,2026-08-20
+BX.KLT.DINV.WD.GD.ZS,fdi_inflow_pct_gdp,66,56,1970,2025,2026-08-20
+NV.AGR.TOTL.ZS,agriculture_pct_gdp,66,66,1960,2025,2026-08-20
+NV.IND.TOTL.ZS,industry_pct_gdp,66,66,1960,2025,2026-08-20
+NV.SRV.TOTL.ZS,services_pct_gdp,66,66,1960,2025,2026-08-20
